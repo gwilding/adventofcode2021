@@ -183,9 +183,12 @@ def day_03():
     print('gamma: ', oxygen)
     print('epsilon: ', co2scrubber)
     print('product: ', oxygen*co2scrubber)
-    
+
 def main():
     pass
+    # day_01()
+    # day_02()
+    # day_03()
 
 if __name__ == '__main__':
     main()
